@@ -4,7 +4,7 @@ _This repository contains resources for one of WDSS's introductory workshops._
 
 ## Important Links
 
-- Session Recording
+- [Session Recording](https://youtu.be/o0yVk7hABsM)
 - [Help Guide](https://colab.research.google.com/github/warwickdatascience/spotify-workshop/blob/master/notebooks/help-guide.ipynb)
 - [Empty Template](https://colab.research.google.com/github/warwickdatascience/spotify-workshop/blob/master/notebooks/template-empty.ipynb)
 - [Completed Template](https://colab.research.google.com/github/warwickdatascience/spotify-workshop/blob/master/notebooks/template-complete.ipynb) (Solutions)
